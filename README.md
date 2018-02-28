@@ -1,0 +1,2 @@
+# SuperSpawner
+A Bukkit Plugins
