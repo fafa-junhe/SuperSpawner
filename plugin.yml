@@ -1,3 +1,8 @@
 name: SuperSpawner
-main: 
+main: com.mixpa.superspawner.SuperSpawner
 version: 1.0
+commands:
+   reload:
+      description: "重载"
+      usage: /ss
+      
